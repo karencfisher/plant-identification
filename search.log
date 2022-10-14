@@ -1,0 +1,19 @@
+INFO:root:Searching 10 images fpr Arabis perennans
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/4/43/Arabis_perennans_2.jpg
+INFO:root:saved https://www.fireflyforest.com/images/wildflowers/plants/Arabis_per_400.jpg
+INFO:root:saved https://www.fireflyforest.com/images/wildflowers/plants/Arabis_per_300.jpg
+INFO:root:Searching 10 images fpr Arabis perennans
+INFO:root:saved https://c8.alamy.com/comp/DTDTG7/common-rockcress-arabis-perennans-boechera-perennans-wildflowers-islands-DTDTG7.jpg
+INFO:root:saved https://c8.alamy.com/comp/DTDTF5/common-rockcress-arabis-perennans-boechera-perennans-wildflowers-islands-DTDTF5.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/a/a9/Arabis_perennans_1.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/9/91/Arabis_perennans_3.jpg
+INFO:root:Downloaded 7 images
+INFO:root:Searching 10 images fpr Camissonia scapoidea
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Camissonia_scapoidea_utahensis_%284740066050%29.jpg/2560px-Camissonia_scapoidea_utahensis_%284740066050%29.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/6/64/Camissonia_scapoidea_utahensis_%284739429079%29.jpg
+INFO:root:saved https://idfg.idaho.gov/species/sites/default/files/taxa/01373_orig.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/7/7f/Camissonia_scapoidea_utahensis_%284740064460%29.jpg
+ERROR:root:failed getting image https://live.staticflickr.com/4143/4739424443_0ecd93af25_b.jpg
+ERROR:root:HTTP Error: 403
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/c/c1/Camissonia_scapoidea_utahensis_%284740066050%29.jpg
+INFO:root:Downloaded 5 images
