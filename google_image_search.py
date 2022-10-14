@@ -61,7 +61,7 @@ def search_image(item_str, count, data_path):
                 continue
             image_url = item['link']
             image_string = item['title']
-            success = download_image(image_url, image_string, data_path)
+            success = download_image(image_url, image_count, data_path)
             if success:
                 count -= 1
                 image_count += 1
@@ -70,24 +70,25 @@ def search_image(item_str, count, data_path):
     logging.info(f'Downloaded {image_count} images')
     return image_count
 
-def download_image(image_url, image_string, data_path):
+def download_image(image_url, image_count, data_path):
     # Get image
     user_agent = {'User-agent': 'Mozilla/5.0'}
     result = requests.get(image_url, headers=user_agent, stream=True)
 
     # Handle HTTP errors, returns False
     if result.status_code != 200:
-        logging.error(f'failed getting image {image_string}')
+        logging.error(f'failed getting image {image_url}')
         logging.error(f'HTTP Error: {result.status_code}')
         return False
 
     # Store the image in data_path
-    image_string = re.sub(r'[^\w\s-]', '', image_string)
-    image_file_name = image_string.strip().replace(' ', '-') + '.jpg'
+    image_file_name = f'image{image_count}.jpg'
     file_path = os.path.join(data_path, image_file_name)
+
+    # Copy image to file
     with open(file_path, 'wb') as FP:
         copyfileobj(result.raw, FP)
-    logging.info(f'saved {image_string}')
+    logging.info(f'saved {image_url}')
 
     # Success
     return True
