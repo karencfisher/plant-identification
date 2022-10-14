@@ -1,0 +1,23 @@
+INFO:root:Getting 10 of 10 images fpr Chrysopsis villosa var. minor
+INFO:root:Getting 10 of 10 images fpr Gilia leptomeria var. leptomeria
+INFO:root:Getting 10 of 10 images fpr Camissonia scapoidea var. scapoidea
+INFO:root:Getting 10 of 10 images fpr Chrysopsis villosa var. minor
+ERROR:root:Code: 429
+Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 0 images
+INFO:root:Getting 10 of 10 images fpr Gilia leptomeria var. leptomeria
+ERROR:root:Code: 429
+Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 0 images
+INFO:root:Getting 10 of 10 images fpr Camissonia scapoidea var. scapoidea
+ERROR:root:Code: 429
+Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 0 images
+INFO:root:Getting 10 of 10 images fpr Chrysopsis villosa var. minor
+ERROR:root:Code: 429
+Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 0 images
+INFO:root:Getting 10 of 10 images fpr Gilia leptomeria var. leptomeria
+ERROR:root:Code: 429
+Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 0 images

@@ -5,8 +5,9 @@ name = "pypi"
 
 [packages]
 python-dotenv = "*"
-google-images-search = "*"
-windows-curses = "*"
+pandas = "*"
+ipykernel = "*"
+tqdm = "*"
 
 [dev-packages]
 
