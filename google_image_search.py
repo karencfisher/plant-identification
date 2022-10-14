@@ -51,8 +51,8 @@ def search_image(item_str, count, data_path):
         # Handle HTTP errors, record and return
         if result.status_code != 200:
             error = result_json['error']
-            error_message = f'Code: {error["code"]}\nMessage: { error["message"]}'
-            logging.error(error_message)
+            logging.error(f'Code: {error["code"]}')
+            logging.error(f'Message: { error["message"]}')
             break
 
         # Attempt to download found images
@@ -78,6 +78,7 @@ def download_image(image_url, image_string, data_path):
     # Handle HTTP errors, returns False
     if result.status_code != 200:
         logging.error(f'failed getting image {image_string}')
+        logging.error(f'HTTP Error: {result.status_code}')
         return False
 
     # Store the image in data_path
