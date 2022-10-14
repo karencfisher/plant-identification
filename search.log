@@ -1,23 +1,18 @@
-INFO:root:Getting 10 of 10 images fpr Chrysopsis villosa var. minor
-INFO:root:Getting 10 of 10 images fpr Gilia leptomeria var. leptomeria
-INFO:root:Getting 10 of 10 images fpr Camissonia scapoidea var. scapoidea
-INFO:root:Getting 10 of 10 images fpr Chrysopsis villosa var. minor
-ERROR:root:Code: 429
-Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
-INFO:root:Downloaded 0 images
-INFO:root:Getting 10 of 10 images fpr Gilia leptomeria var. leptomeria
-ERROR:root:Code: 429
-Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
-INFO:root:Downloaded 0 images
-INFO:root:Getting 10 of 10 images fpr Camissonia scapoidea var. scapoidea
-ERROR:root:Code: 429
-Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
-INFO:root:Downloaded 0 images
-INFO:root:Getting 10 of 10 images fpr Chrysopsis villosa var. minor
-ERROR:root:Code: 429
-Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
-INFO:root:Downloaded 0 images
-INFO:root:Getting 10 of 10 images fpr Gilia leptomeria var. leptomeria
-ERROR:root:Code: 429
-Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
-INFO:root:Downloaded 0 images
+INFO:root:Searching 10 images fpr Arabis perennans
+INFO:root:saved FileArabis perennans 2jpg - Wikimedia Commons
+INFO:root:saved Arabis perennans - Perennial Rockcress Stiffarm Rock Cress 
+INFO:root:saved Arabis perennans - Perennial Rockcress Stiffarm Rock Cress 
+INFO:root:Searching 10 images fpr Arabis perennans
+INFO:root:saved Common Rockcress Arabis perennans Boechera perennans 
+INFO:root:saved Common Rockcress Arabis perennans Boechera perennans 
+INFO:root:saved FileArabis perennans 1jpg - Wikimedia Commons
+INFO:root:saved FileArabis perennans 3jpg - Wikimedia Commons
+INFO:root:Downloaded 7 images
+INFO:root:Searching 10 images fpr Camissonia scapoidea
+INFO:root:saved FileCamissonia scapoidea utahensis 4740066050jpg - Wikimedia 
+INFO:root:saved FileCamissonia scapoidea utahensis 4739429079jpg - Wikimedia 
+INFO:root:saved Camissonia scapoidea ssp scapoidea  Idaho Fish and Game
+INFO:root:saved FileCamissonia scapoidea utahensis 4740064460jpg - Wikimedia 
+INFO:root:saved Camissonia scapoidea utahensis  This annual is locally abun  Flickr
+INFO:root:saved FileCamissonia scapoidea utahensis 4740066050jpg - Wikimedia 
+INFO:root:Downloaded 6 images
