@@ -21,5 +21,7 @@ Project to develop Android application to identify wild plants in this area (Moa
 Getting sufficient accurate images
 
 Using NPS checklist for vascular plants in Arches National Park, trying to obtain images via Google image search API.
-Main obstacle is limits on the API, including dialy limit on requests.
+Main obstacle is limits on the API, including dialy limit on requests. Each batch of 10 images may contain 0 - 10 specific
+images (title contains full query string): but we are limited to only search 20 batches (200 images) to try to satisfy
+our desired number of images.
 
