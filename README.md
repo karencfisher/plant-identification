@@ -16,6 +16,10 @@ Project to develop Android application to identify wild plants in this area (Moa
 
 ### Data accumulation
 
+#### Issues:
+
+Getting sufficient accurate images
+
 Using NPS checklist for vascular plants in Arches National Park, trying to obtain images via Google image search API.
 Main obstacle is limits on the API, including dialy limit on requests.
 
