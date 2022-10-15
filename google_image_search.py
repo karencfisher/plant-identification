@@ -1,7 +1,6 @@
 import os
 import requests
 import logging
-import re
 
 from shutil import copyfileobj
 from urllib.parse import quote_plus
@@ -111,4 +110,4 @@ def download_image(image_url, image_count, data_path):
 
 if __name__ == '__main__':
 
-    search_image('mormon tea', 10, 'data')
+    search_image('oldman sage', 10, 'data')
