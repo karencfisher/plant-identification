@@ -4,7 +4,7 @@ Project to develop Android application to identify wild plants in this area (Moa
 
 1) Data collection: get plant images
 
-2) Data preprocessing and scaling
+2) Data preprocessing and scaling of images
 
 3) Transfer learning using Mobilenet 
 
@@ -14,7 +14,7 @@ Project to develop Android application to identify wild plants in this area (Moa
 
 6) Add retrieval and display of information about identified specimen
 
-### Data accumulation
+### Data collection
 
 #### Issues:
 
