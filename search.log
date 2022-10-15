@@ -1,19 +1,180 @@
-INFO:root:Searching 10 images fpr Arabis perennans
-INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/4/43/Arabis_perennans_2.jpg
-INFO:root:saved https://www.fireflyforest.com/images/wildflowers/plants/Arabis_per_400.jpg
-INFO:root:saved https://www.fireflyforest.com/images/wildflowers/plants/Arabis_per_300.jpg
-INFO:root:Searching 10 images fpr Arabis perennans
-INFO:root:saved https://c8.alamy.com/comp/DTDTG7/common-rockcress-arabis-perennans-boechera-perennans-wildflowers-islands-DTDTG7.jpg
-INFO:root:saved https://c8.alamy.com/comp/DTDTF5/common-rockcress-arabis-perennans-boechera-perennans-wildflowers-islands-DTDTF5.jpg
-INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/a/a9/Arabis_perennans_1.jpg
-INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/9/91/Arabis_perennans_3.jpg
-INFO:root:Downloaded 7 images
-INFO:root:Searching 10 images fpr Camissonia scapoidea
-INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Camissonia_scapoidea_utahensis_%284740066050%29.jpg/2560px-Camissonia_scapoidea_utahensis_%284740066050%29.jpg
-INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/6/64/Camissonia_scapoidea_utahensis_%284739429079%29.jpg
-INFO:root:saved https://idfg.idaho.gov/species/sites/default/files/taxa/01373_orig.jpg
-INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/7/7f/Camissonia_scapoidea_utahensis_%284740064460%29.jpg
-ERROR:root:failed getting image https://live.staticflickr.com/4143/4739424443_0ecd93af25_b.jpg
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:saved https://www.laspilitas.com/images/grid24_24/10509/images/plants/chrysopsis/chrysopsis-villosa-echioides.jpg
+INFO:root:saved http://www.flowermedia.com/static2/preview2/stock-photo-chrysopsis-villosa-sunnyshine--golden-eye-100632-8961.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/3/3e/Chrysopsis_villosa_ruteri0.jpg
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/4/46/Chrysopsis_villosa_ruteri1.jpg
+ERROR:root:Exception dosnloading https://www.gardencentermarketing.com/_ccLib/image/plantstock/WEB/WEB-085096.jpg
+ERROR:root:Error: <class 'requests.exceptions.SSLError'>
+INFO:root:saved https://theodorepayne.org/nativeplantdatabase/images/thumb/Chrysopsis_villosa_sbm1.jpg/300px-Chrysopsis_villosa_sbm1.jpg
+INFO:root:saved https://www.laspilitas.com/images/grid24_12/4432/s/images/plants/1079/chrysopsis_villosa.jpg
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:saved https://theodorepayne.org/nativeplantdatabase/images/Chrysopsis_villosa_sbm1.jpg
+INFO:root:saved https://theodorepayne.org/nativeplantdatabase/images/thumb/Chrysopsis_villosa_sbm2.jpg/300px-Chrysopsis_villosa_sbm2.jpg
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:saved https://i.ebayimg.com/images/g/DIYAAOSwllZis6uZ/s-l400.jpg
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:saved https://theodorepayne.org/nativeplantdatabase/images/Chrysopsis_villosa_sbm2.jpg
+INFO:root:saved https://www.plantplaces.com/photos/plantplacesimage20141011_125539.jpg
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:saved https://i.ebayimg.com/images/g/MasAAOSwP5Jc9tie/s-l500.jpg
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+ERROR:root:Exception dosnloading https://www.discoverlife.org/nh/maps/Plantae/Dicotyledoneae/Asteraceae/Chrysopsis/map_of_Chrysopsis_villosa.jpg
+ERROR:root:Error: <class 'requests.exceptions.SSLError'>
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:saved https://glacialridgegrowers.com/assets/images/chrysopsi%20villosa.jpg
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+ERROR:root:Exception dosnloading https://www.discoverlife.org/IM/I_JLL/0000/320/Chrysopsis_villosa,I_JLL55.jpg
+ERROR:root:Error: <class 'requests.exceptions.SSLError'>
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:saved https://www.zhiwutong.com/tu/mpiz/4500/04066_s.jpg
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:Searching 10 images fpr Chrysopsis villosa
+INFO:root:Exceeded limit of start parameter
+INFO:root:Downloaded 14 images
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+ERROR:root:failed getting image https://live.staticflickr.com/7390/27207866524_5040ca4c32_b.jpg
 ERROR:root:HTTP Error: 403
-INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/c/c1/Camissonia_scapoidea_utahensis_%284740066050%29.jpg
-INFO:root:Downloaded 5 images
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:saved https://img.yumpu.com/54521635/1/184x260/toolkit.jpg?quality=85
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:saved https://www.calflora.org/dmap/3864.jpg
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Searching 10 images fpr Gilia leptomeria
+INFO:root:Exceeded limit of start parameter
+INFO:root:Downloaded 2 images
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Searching 10 images fpr Haplopappus armerioides
+INFO:root:Exceeded limit of start parameter
+INFO:root:Downloaded 0 images
+INFO:root:Searching 10 images fpr Suaeda torreyana
+ERROR:root:Exception dosnloading https://www.discoverlife.org/IM/I_HLV/0006/640/Suaeda_torreyana,_branch_and_flowers,I_HLV679.jpg
+ERROR:root:Error: <class 'requests.exceptions.SSLError'>
+ERROR:root:Exception dosnloading https://www.discoverlife.org/IM/I_HLV/0006/640/Suaeda_torreyana,_habitat,I_HLV677.jpg
+ERROR:root:Error: <class 'requests.exceptions.SSLError'>
+INFO:root:saved https://swbiodiversity.org/imglib/seinet/swnode/ASDM/00004/Suaeda_nigra_4352_tn.jpg
+INFO:root:saved https://s3.us-west-2.amazonaws.com/db.herbarium.arizona.edu/images/ARIZ/ARIZ/00044/ariz44380.jpg
+INFO:root:Searching 10 images fpr Suaeda torreyana
+ERROR:root:Code: 429
+ERROR:root:Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 2 images
+INFO:root:Searching 10 images fpr Viguiera multiflora
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/4/45/Viguiera_multiflora_%284941765519%29.jpg
+INFO:root:saved https://live.staticflickr.com/4102/4941765519_9879105897_b.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/e/ef/Viguiera_multiflora_%287990094819%29.jpg
+INFO:root:saved https://i.pinimg.com/originals/54/c7/78/54c778581e75ec9cbebc3edfb4cdd6b5.jpg
+ERROR:root:failed getting image https://live.staticflickr.com/5460/9370024867_ee25719d25_b.jpg
+ERROR:root:HTTP Error: 403
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/c/cd/Viguiera_multiflora_%284942354654%29.jpg
+INFO:root:saved https://i.pinimg.com/736x/54/c7/78/54c778581e75ec9cbebc3edfb4cdd6b5--juniper-shrub.jpg
+INFO:root:Searching 10 images fpr Viguiera multiflora
+INFO:root:saved https://c8.alamy.com/comp/KEJ4FG/showy-goldeneye-heliomeris-multiflora-syn-viguiera-multiflora-KEJ4FG.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/2/2a/Viguiera_multiflora_%284941768417%29.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Viguiera_multiflora_%284941768417%29.jpg/2560px-Viguiera_multiflora_%284941768417%29.jpg
+ERROR:root:failed getting image https://live.staticflickr.com/4077/4942354654_c0fe2685e6_b.jpg
+ERROR:root:HTTP Error: 403
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/c/c3/Viguiera_multiflora_%284942352052%29.jpg
+ERROR:root:failed getting image https://live.staticflickr.com/8177/7990104542_db613f5ebe_b.jpg
+ERROR:root:HTTP Error: 403
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Viguiera_multiflora_%284941768417%29.jpg/1024px-Viguiera_multiflora_%284941768417%29.jpg
+INFO:root:saved https://c8.alamy.com/comp/KWJ3B4/showy-goldeneye-viguiera-multiflora-heliomeris-multiflora-aka-false-KWJ3B4.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Viguiera_multiflora_%284941768417%29.jpg/1280px-Viguiera_multiflora_%284941768417%29.jpg
+INFO:root:Searching 10 images fpr Viguiera multiflora
+INFO:root:saved https://pfaf.org/Admin/PlantImages/ViguieraMultiflora.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Viguiera_multiflora_%284941768417%29.jpg/1200px-Viguiera_multiflora_%284941768417%29.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Viguiera_multiflora_%284941768417%29.jpg/640px-Viguiera_multiflora_%284941768417%29.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Viguiera_multiflora_%284941768417%29.jpg/320px-Viguiera_multiflora_%284941768417%29.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Viguiera_multiflora_%284942354654%29.jpg/1280px-Viguiera_multiflora_%284942354654%29.jpg
+INFO:root:saved https://pfaf.org/Admin/PlantImages/ViguieraMultiflora2.jpg
+INFO:root:saved https://l450v.alamy.com/450v/kwj3b4/showy-goldeneye-viguiera-multiflora-heliomeris-multiflora-aka-false-kwj3b4.jpg
+INFO:root:Searching 10 images fpr Viguiera multiflora
+ERROR:root:Code: 429
+ERROR:root:Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 20 images
+INFO:root:Searching 10 images fpr Zuckia brandegei
+ERROR:root:Code: 429
+ERROR:root:Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 0 images
+INFO:root:Searching 10 images fpr Triglochin maritima
+ERROR:root:Code: 429
+ERROR:root:Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 0 images
+INFO:root:Searching 10 images fpr Cymopterus acaulis
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/5/5a/Cymopterus_acaulis_var._fendleri.jpg
+INFO:root:saved http://www.easterncoloradowildflowers.com/_Web%20Photos/Cymopterus_acaulis_Apiaceae_Plains%20Springparsley_101.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/a/a6/Cymopterus_acaulis_var._greeleyorum_flowering_in_SW_Idaho.jpg
+INFO:root:saved https://bugwoodcloud.org/images/768x512/5394293.jpg
+INFO:root:saved https://www.opsu.edu/Academics/SciMathNurs/NaturalScience/PlantsInsectsOfGoodwell/plants/pasturebig/ca0426_05.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/d/d7/Cymopterus_acaulis_%284008260886%29.jpg
+INFO:root:Searching 10 images fpr Cymopterus acaulis
+ERROR:root:Code: 429
+ERROR:root:Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 6 images
+INFO:root:Searching 10 images fpr Triglochin maritima
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/d/d5/Stranddreizack.jpg
+INFO:root:saved https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Juncaginaceae/triglochin-maritima-ha-mlovit-c.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Triglochin_maritima_baie-authie_80_29042007_3.jpg/800px-Triglochin_maritima_baie-authie_80_29042007_3.jpg
+INFO:root:saved https://www.calflora.org/app/up/io/187/io56370-2.jpg
+INFO:root:saved http://www.minnesotawildflowers.info/udata/r9ndp23q/pd/triglochin-maritima-8530498-24.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/b/b9/Triglochin_maritima_habit_inflorescence.JPG
+ERROR:root:failed getting image https://www.watershednursery.com/wp-content/uploads/2013/05/Triglochin-maritima-Swantons-marsh3-768x1024.jpg
+ERROR:root:HTTP Error: 406
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Triglochin_maritima_habit_inflorescence.JPG/1200px-Triglochin_maritima_habit_inflorescence.JPG
+INFO:root:saved https://www.centralcoastbiodiversity.org/uploads/1/4/9/9/14993002/2649767_orig.jpg
+INFO:root:saved http://www.minnesotawildflowers.info/udata/r9ndp23q/pd/triglochin-maritima-8530498-38.jpg
+INFO:root:Searching 10 images fpr Triglochin maritima
+ERROR:root:Code: 429
+ERROR:root:Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 9 images
+INFO:root:Searching 10 images fpr Cymopterus acaulis
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/5/5a/Cymopterus_acaulis_var._fendleri.jpg
+INFO:root:saved http://www.easterncoloradowildflowers.com/_Web%20Photos/Cymopterus_acaulis_Apiaceae_Plains%20Springparsley_101.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/a/a6/Cymopterus_acaulis_var._greeleyorum_flowering_in_SW_Idaho.jpg
+INFO:root:saved https://bugwoodcloud.org/images/768x512/5394293.jpg
+INFO:root:saved https://www.opsu.edu/Academics/SciMathNurs/NaturalScience/PlantsInsectsOfGoodwell/plants/pasturebig/ca0426_05.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/d/d7/Cymopterus_acaulis_%284008260886%29.jpg
+INFO:root:Searching 10 images fpr Cymopterus acaulis
+ERROR:root:Code: 429
+ERROR:root:Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
+INFO:root:Downloaded 6 images

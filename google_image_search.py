@@ -45,7 +45,12 @@ def search_image(item_str, count, data_path):
         PARAMS['start'] = start
 
         # Make request
-        result = requests.get(URL, PARAMS)
+        try:
+            result = requests.get(URL, PARAMS)
+        except BaseException as err:
+            logging.error(f'Exception searching {image_url}')
+            logging.error(f'Error: {type(err)}')
+            return image_count
         result_json = result.json()
 
         # Handle HTTP errors, record and return
@@ -60,20 +65,24 @@ def search_image(item_str, count, data_path):
             if item_str not in item['title']:
                 continue
             image_url = item['link']
-            image_string = item['title']
             success = download_image(image_url, image_count, data_path)
             if success:
                 count -= 1
                 image_count += 1
         start += 10
 
-    logging.info(f'Downloaded {image_count} images')
+    logging.info(f'{item_str}: Downloaded {image_count} images')
     return image_count
 
 def download_image(image_url, image_count, data_path):
     # Get image
     user_agent = {'User-agent': 'Mozilla/5.0'}
-    result = requests.get(image_url, headers=user_agent, stream=True)
+    try:
+        result = requests.get(image_url, headers=user_agent, stream=True)
+    except BaseException as err:
+        logging.error(f'Exception downloading {image_url}')
+        logging.error(f'Error: {type(err)}')
+        return False
 
     # Handle HTTP errors, returns False
     if result.status_code != 200:
@@ -86,8 +95,13 @@ def download_image(image_url, image_count, data_path):
     file_path = os.path.join(data_path, image_file_name)
 
     # Copy image to file
-    with open(file_path, 'wb') as FP:
-        copyfileobj(result.raw, FP)
+    try:
+        with open(file_path, 'wb') as FP:
+            copyfileobj(result.raw, FP)
+    except BaseException as err:
+        logging.error(f'Exception copying image {image_url}')
+        logging.error(f'Error: {type(err)}')
+        return False
     logging.info(f'saved {image_url}')
 
     # Success
