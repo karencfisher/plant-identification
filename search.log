@@ -1,4 +1,17 @@
-INFO:root:Searching 10 images fpr oldman sage
-ERROR:root:Code: 429
-ERROR:root:Message: Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'customsearch.googleapis.com' for consumer 'project_number:220254326668'.
-INFO:root:oldman sage: Downloaded 0 images
+INFO:root:Searching 10 images for artemisia tridenta
+INFO:root:saved https://i0.wp.com/rosariumblends.com/wp-content/uploads/2018/01/Artemisia-tridenta-asperge.jpg?fit=800%2C800&ssl=1
+INFO:root:saved https://waterthriftyplants.com/wp-content/uploads/2013/06/artemisia-tri-vaseyana-300.jpg
+INFO:root:saved https://rosariumblends.com/wp-content/uploads/2018/01/Artemisia-tridenta-asperge.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/d/df/Sagebrushsjc.jpg
+INFO:root:saved https://live.staticflickr.com/5643/23690224209_304e72eddd_b.jpg
+INFO:root:Searching 10 images for artemisia tridenta
+INFO:root:saved https://americanwildernessbotanicals.org/cdn/shop/products/AWB_BasinBigSage-Hyrdsl2oz_4-5x1-75_072021aprvdCRVS-01.jpg?v=1682194730&width=1445
+INFO:root:saved https://www.uvu.edu/crfs/images/native-plants/plant-directory/bigsagebrush-first.jpg
+INFO:root:saved https://i.etsystatic.com/21758875/r/il/8fe3fd/6172912559/il_300x300.6172912559_lgkn.jpg
+INFO:root:saved https://www.uvu.edu/crfs/images/native-plants/plant-directory/bigsagebrush-identification2.jpg
+INFO:root:Searching 10 images for artemisia tridenta
+INFO:root:saved https://www.uvu.edu/crfs/images/native-plants/plant-directory/bigsagebrush-identification3.jpg
+INFO:root:saved https://www.uvu.edu/crfs/images/native-plants/plant-directory/bigsagebrush-identification1.jpg
+INFO:root:saved https://www.uvu.edu/crfs/images/native-plants/plant-directory/bigsagebrush-sec.jpg
+INFO:root:saved https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sagebrushsjc.jpg/220px-Sagebrushsjc.jpg
+INFO:root:artemisia tridenta: Downloaded 13 images

@@ -29,6 +29,10 @@ def search_image(item_str, count, data_path):
     start = 1
     image_count = 0
     PARAMS['q'] = '"' + quote_plus(item_str) + '"'
+    
+    data_path = os.path.join(data_path, item_str)
+    if not os.path.exists(data_path):
+        os.makedirs(data_path)
 
     while count > 0:
         if start >= 200:
@@ -37,7 +41,7 @@ def search_image(item_str, count, data_path):
 
         # Maximum number of images in one query is 10
         num = 10
-        logging.info(f'Searching {num} images fpr {item_str}')
+        logging.info(f'Searching {num} images for {item_str}')
 
         # Assemble parameters
         PARAMS['num'] = num
@@ -61,7 +65,7 @@ def search_image(item_str, count, data_path):
 
         # Attempt to download found images
         for item in result_json['items']:
-            if item_str not in item['title']:
+            if item_str.lower() not in item['title'].lower():
                 continue
             image_url = item['link']
             success = download_image(image_url, image_count, data_path)
@@ -110,4 +114,4 @@ def download_image(image_url, image_count, data_path):
 
 if __name__ == '__main__':
 
-    search_image('oldman sage', 10, 'data')
+    search_image('artemisia tridenta', 10, 'data')
